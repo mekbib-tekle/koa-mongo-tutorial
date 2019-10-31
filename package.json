@@ -19,7 +19,7 @@
     "mongo": "^0.1.0",
     "mongod": "^2.0.0",
     "mongodb": "^3.0.4",
-    "mongoose": "^5.0.10",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.17.2"
   },
   "devDependencies": {
